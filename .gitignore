@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local Android configuration
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APK / build outputs
+*.apk
+*.aab
+
+# Kotlin
+.kotlin/
+
+# Temporary files
+*.log
