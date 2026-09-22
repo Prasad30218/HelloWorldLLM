@@ -64,3 +64,14 @@ The current prototype has implemented the core Android application and local LLM
 * Improved conversational interaction
 
 The repository will be updated as these components are implemented and tested.
+---
+
+## Screenshots
+
+### Main Screen
+
+![EchoLang Main Screen](screenshots/main_screen.jpeg)
+
+### Voice Input and LLM Output
+
+![EchoLang Voice Input and LLM Output](screenshots/voice_input_%26_LLM_output.jpeg)
